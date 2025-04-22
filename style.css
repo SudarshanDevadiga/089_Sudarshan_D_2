@@ -1,0 +1,31 @@
+.center-image {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .main-heading, .bio {
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+  
+  .details {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    padding: 0 20px;
+  }
+  
+  .foot {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #e74c3c;
+    text-decoration: none;
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  .button-container {
+    text-align: center;
+  }
